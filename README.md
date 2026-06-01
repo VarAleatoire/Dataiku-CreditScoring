@@ -9,7 +9,7 @@ Projet universitaire réalisé dans le cadre du Master BIDABI à l'Université S
 
 ## Présentation
 
-L'objectif de ce projet est de construire un pipeline de scoring de crédit pour une banque américaine à l'aide de Dataiku DSS. Il s'agit de prédire si un client va faire défaut sur son prêt, à partir d'un jeu de données d'environ 4 871 clients répartis en deux tables : les caractéristiques des demandeurs (`hmeq`) et l'historique des incidents de paiement (`incident`).
+L'objectif de ce projet est de construire un pipeline de scoring de crédit pour une banque américaine à l'aide de Dataiku DSS. Il s'agit de prédire si un client va faire défaut sur son prêt, à partir d'un jeu de données de 4 871 clients répartis en deux tables : les caractéristiques des demandeurs (`hmeq`) et l'historique des incidents de paiement (`incident`).
 
 Le pipeline couvre l'ensemble de la chaîne : import des données, exploration, préparation, modélisation, validation et scoring sur une nouvelle base.
 
